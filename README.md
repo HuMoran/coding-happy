@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# 代码检查
+## python
+Python官方工具：[flake8](https://gitlab.com/pycqa/flake8)
+Google代码格式化工具：[yapf](https://github.com/google/yapf/)
+推荐两个一起结合使用
+## C
+[splint](http://splint.org/)
+[frama-c](http://frama-c.com/)
+## C++
+Google出品：[cpplint · PyPI](https://pypi.org/project/cpplint/)
+[Cppcheck - A tool for static C/C++ code analysis](http://cppcheck.sourceforge.net/)
+## JS
+[eslint](https://cn.eslint.org/)
+[airbnb](https://github.com/airbnb/javascript)
 
-You can use the [editor on GitHub](https://github.com/HuMoran/coding-happy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## git学习
+[GitHub - HuMoran/github-use-learn: GitHub使用规范](https://github.com/HuMoran/github-use-learn)
+[GitHub - HuMoran/node-project-template: node](https://github.com/HuMoran/node-project-template)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 谷歌代码规范文档[Github地址](https://github.com/google/styleguide)
+建议全员根据自己的开发语言，仔细阅读
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HuMoran/coding-happy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 业界的一些NB工具
+[Gimpel Software - The Leader in Static Analysis for C and C++ with PC-lint Plus](https://www.gimpel.com/)
+[Coverity 静态应用安全测试 (SAST) \| Synopsys](https://www.synopsys.com/zh-cn/software-integrity/security-testing/static-analysis-sast.html)
