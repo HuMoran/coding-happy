@@ -2,7 +2,7 @@
 ## python
 * Python官方工具：[flake8](https://gitlab.com/pycqa/flake8)
 * Google代码格式化工具：[yapf](https://github.com/google/yapf/)
-推荐两个一起结合使用
+* 推荐两个一起结合使用
 ## C
 * [splint](http://splint.org/)
 * [frama-c](http://frama-c.com/)
